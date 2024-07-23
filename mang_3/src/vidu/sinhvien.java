@@ -66,6 +66,14 @@ public class sinhvien implements Comparable<sinhvien> {
 		String tenO = o.getTen();
 		return tenThis.compareTo(tenO);
 	}
+
+	@Override
+	public String toString() {
+		return "sinhvien [masinhvien=" + masinhvien + ", Hovaten=" + Hovaten + ", Tenlop=" + Tenlop + ", diemtrungbinh="
+				+ diemtrungbinh + "]";
+	}
+	
+	
 	
 	
 	
