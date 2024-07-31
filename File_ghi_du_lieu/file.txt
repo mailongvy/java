@@ -1,0 +1,3 @@
+Xin chao, minh la MLV
+Du lieu: 3.14	La so pi
+Student [id=123, name=Mai Long Vỹ]
