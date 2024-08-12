@@ -4,6 +4,9 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 
+/*
+ * có thể dùng filewriter, bufferedwriter, printwriter
+ */
 public class ViduGhitext {
 	public static void main(String[] args) {
 		PrintWriter pw;
