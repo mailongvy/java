@@ -51,7 +51,7 @@ public class TimKiemView extends JFrame {
 		jTextarea_vanban = new JTextArea(100, 100);
 		jTextarea_vanban.setFont(font);
 		// JScrollPane: tạo ra một thanh cuộn javaswing
-		JScrollPane JScrollPane = new JScrollPane(JLabel_vanban, ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER, ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+		JScrollPane JScrollPane = new JScrollPane(JLabel_vanban);
 		
 		
 		
