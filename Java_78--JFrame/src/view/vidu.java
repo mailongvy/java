@@ -21,9 +21,7 @@ public class vidu {
 		jf.setLocation(300, 300);
 		
 		// thoát ra khỏi chương trình khi đóng cửa sổ JFrame
-		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		
-		
+		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE)
 		// cho phép hiển thị luôn ở dưới cùng
 		jf.setVisible(true);
 	}
